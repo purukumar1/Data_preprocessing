@@ -1,2 +1,2 @@
 # Data_preprocessing
-Here, I have assessed two CSV files using Linear regression Model
+Here, I have build a Linear regression Model for two CSV files
